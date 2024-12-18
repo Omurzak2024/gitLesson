@@ -6,6 +6,6 @@ public class Student {
     private Long id;
     private String firstName;
     private String lastName;
-    private LocalDate birthDay;
+    private LocalDate dateOfBirthDay;
 
 }
